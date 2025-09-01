@@ -41,6 +41,7 @@ To develop a clear understanding of User Interface (UI) and User Experience (UX)
 
 - Analyzed the difference between UI and UX through real-world case studies like Airbnb and Duolingo:
   • Airbnb: Showed how clean UI supports a frictionless booking experience (UX).
+  
   • Duolingo: Demonstrated how playful UI enhances daily engagement and motivation (UX).
 
 - Practiced redesigning poor interfaces by identifying both UI flaws (e.g., inconsistent fonts, poor color contrast) and UX issues (e.g., confusing navigation, missing error feedback), followed by mockups using tools like Figma.
