@@ -33,35 +33,7 @@ To develop a clear understanding of User Interface (UI) and User Experience (UX)
 - Optionally, include improvement suggestions based on your case study findings.
 
 ## OUTPUT
-- Developed a strong understanding of the core principles of UI (User Interface) and UX (User Experience), including visual hierarchy, interaction design, usability, and user satisfaction.
-
-- Created and refined basic UI elements such as login screens using minimalist design principles, emphasizing visual clarity, button placement, and input field accessibility.
-
-- Successfully mapped user flows for common app interactions (e.g., app launch → login process), enhancing the ability to design seamless task completion journeys.
-
-- Analyzed the difference between UI and UX through real-world case studies like Airbnb and Duolingo:
-  
-  • Airbnb: Showed how clean UI supports a frictionless booking experience (UX).
-  
-  • Duolingo: Demonstrated how playful UI enhances daily engagement and motivation (UX).
-
-- Practiced redesigning poor interfaces by identifying both UI flaws (e.g., inconsistent fonts, poor color contrast) and UX issues (e.g., confusing navigation, missing error feedback), followed by mockups using tools like Figma.
-
-- Explored and used professional tools for real-world UI/UX design workflows:
-  • **Figma**: Built responsive interface prototypes with interactive links between screens.
-  • **Miro**: Created user personas, journey maps, and wireframes to visualize and plan experiences.
-  • **Adobe XD, Sketch, InVision**: Designed screens, added animations, enabled team collaboration, and gathered stakeholder feedback.
-  • **Axure RP**: Simulated advanced interactions like real-time validation and conditional flows.
-
-- Conducted usability testing by sharing prototypes with peers, collecting feedback, and iterating designs to improve user-friendliness and clarity.
-
-- Strengthened understanding of how UI and UX are interdependent:
-  • Good UI supports effective UX (e.g., clear buttons aid navigation).
-  • Poor UI can hinder UX regardless of how well the journey is planned.
-
-- Gained practical experience in building full-cycle design projects—from user research and wireframing to prototyping and testing.
-
-- The overall outcome was a comprehensive, tool-based, user-centered approach to designing digital products that are not only visually appealing but also highly functional, accessible, and enjoyable to use.
+[Experiment-1.pdf](https://github.com/user-attachments/files/22081896/Experiment-1.pdf)
 
 ## RESULT
 Through these hands-on experiments, I developed a solid understanding of both UI and UX design principles. By analyzing real-world applications, I learned how good visual design (UI) must be paired with smooth user flows (UX) to create effective digital experiences. Using tools like Figma and Adobe XD, I created wireframes and prototypes, which helped me visualize how design decisions impact usability. These activities improved my design thinking, tool proficiency, and ability to evaluate and build better user-centered interfaces.
