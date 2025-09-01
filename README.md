@@ -40,6 +40,7 @@ To develop a clear understanding of User Interface (UI) and User Experience (UX)
 - Successfully mapped user flows for common app interactions (e.g., app launch → login process), enhancing the ability to design seamless task completion journeys.
 
 - Analyzed the difference between UI and UX through real-world case studies like Airbnb and Duolingo:
+  
   • Airbnb: Showed how clean UI supports a frictionless booking experience (UX).
   
   • Duolingo: Demonstrated how playful UI enhances daily engagement and motivation (UX).
